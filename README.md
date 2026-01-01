@@ -27,7 +27,11 @@ I enjoy learning new technologies, solving problems, and designing user-friendly
 
 ## ⌨️ Currently Coding
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" alt="Coding Keyboard GIF"/>
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212750044-8c902c7b-b7d1-4a58-bd1c-9b77a9d7b2bc.gif"
+    width="420"
+    alt="Transparent Coding Animation"
+  />
 </p>
 
 <p align="center">
