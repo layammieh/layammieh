@@ -25,18 +25,13 @@ I enjoy learning new technologies, solving problems, and designing user-friendly
 
 ---
 
-## 📊 GitHub Stats
+## ⌨️ Currently Coding
 <p align="center">
-  <!-- Main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=graciellelayam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160"/>
-
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciellelayam&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" alt="Coding Keyboard GIF"/>
 </p>
 
 <p align="center">
-  <!-- Fallback stable badge -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graciellelayam&theme=tokyonight" />
+  💻 Turning ideas into code, one keystroke at a time.
 </p>
 
 ---
