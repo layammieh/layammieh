@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Software Developer | Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Building+Projects+with+Purpose;Learning+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Aspiring+Software+Developer;Building+Projects+with+Purpose;Learning+Every+Day" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ✨ Hello! I'm **Gracielle Layam**, an **aspiring software developer** who loves turning ideas into functional and meaningful applications.  
 I enjoy learning new technologies, solving problems, and designing user-friendly systems.
 
-- 🌱 Currently learning and improving my **web & application development skills**
+- 🌱 Currently improving my **web & application development skills**
 - 💡 Interested in **frontend, backend, and full-stack development**
 - 🎯 Goal: Build impactful software and grow as a professional developer
 
@@ -27,8 +27,16 @@ I enjoy learning new technologies, solving problems, and designing user-friendly
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=graciellelayam&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciellelayam&layout=compact&theme=tokyonight" height="160"/>
+  <!-- Main stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=graciellelayam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160"/>
+
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciellelayam&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <!-- Fallback stable badge -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graciellelayam&theme=tokyonight" />
 </p>
 
 ---
@@ -49,13 +57,22 @@ I enjoy learning new technologies, solving problems, and designing user-friendly
 
 ## 📫 Let’s Connect
 <p align="center">
-  <a href="https://github.com/graciellelayam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <a href="mailto:layamgracielle@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/graciellemieh.colipanolayam">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/layammieh/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/layam-gracielle-a47b1637b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💖 “Code with passion, learn with purpose.”
+  💖 <i>“Code with passion, learn with purpose.”</i>
 </p>
