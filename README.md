@@ -27,11 +27,7 @@ I enjoy learning new technologies, solving problems, and designing user-friendly
 
 ## ⌨️ Currently Coding
 <p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212750044-8c902c7b-b7d1-4a58-bd1c-9b77a9d7b2bc.gif"
-    width="420"
-    alt="Transparent Coding Animation"
-  />
+  <img src="https://media.tenor.com/8HqcBamsrmIAAAAi/pepe-pepe-chat.gif" alt="Pepe typing on keyboard" width="200" />
 </p>
 
 <p align="center">
@@ -40,10 +36,20 @@ I enjoy learning new technologies, solving problems, and designing user-friendly
 
 ---
 
-## ✨ What I’m Working On
-- 🧩 Personal and school-based software projects  
-- 🌐 Web applications with clean UI and smooth UX  
-- 📚 Strengthening my foundation in programming and system design  
+## ✨ What I’m Working On 
+<table style="width:100%;" border="0" cellspacing="0" cellpadding="0"> 
+  <tr> 
+    <td style="vertical-align:top; padding-right:200px;"> 
+      - 🧩 Personal and school-based software projects<br>
+      - 🌐 Web applications with clean UI and smooth UX<br>
+      - 📚 Strengthening my foundation in programming and system design
+    </td> 
+    <td align="right" style="vertical-align:top; padding-left:200px;"> 
+      <img src="https://media.tenor.com/WlJsOVX2lysAAAAi/cat-tongue-cat.gif" alt="Coding GIF" width="200"/> 
+    </td> 
+  </tr> 
+</table>
+
 
 ---
 
